@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -29,8 +28,6 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **[Hello Microverse]** is my first repository at Microverse
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -38,47 +35,22 @@
 HTML
 CSS
 
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-> Describe between 1-3 key features of the application.
-
 - **[Using Node Module]**
 - **[HTML Linters]**
 - **[CSS Linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
@@ -90,15 +62,10 @@ https://github.com/Nelofarzabi/Hello_Microverse
 
 Install this project with: 
 
-
- 
-
 ```sh
   cd Hello_Microverse
  npm install
 ```
-
-
 ### Usage
 
 To run the project, execute the following command:
@@ -107,22 +74,13 @@ npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
-## 👥 Authors <a name="authors"></a>
-
-> Mention all of the collaborators of this project.
-
 👤 **Nelofar Zabi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-
+- GitHub: [@githubhandle](https://github.com/Nelofarzabi)
+- Twitter: [@twitterhandle](https://twitter.com/NelofarZabi)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nelofar-zabi-1a1066213)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTRIBUTING -->
 
@@ -138,8 +96,6 @@ Feel free to check the [issues page](https://github.com/Nelofarzabi/Hello_Microv
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project give a ⭐️  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -148,12 +104,9 @@ If you like this project give a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank from Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- LICENSE -->
 
