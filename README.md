@@ -6,16 +6,11 @@
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -81,6 +76,12 @@ npm install
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/nelofar-zabi-1a1066213)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--FUTURE FUTURES -->
+## Future Features <a name ="future-features"></a>
+-[ ] **[Portfolio]**
+-[ ] **[Mobile Version]**
+-[ ] **[Desktop Version]**
 
 <!-- CONTRIBUTING -->
 
