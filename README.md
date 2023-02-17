@@ -27,12 +27,17 @@
 
 ## 🛠 Built With <a name="built-with"></a>
 
-HTML
-CSS
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://rubyonrails.org/">
+      HTML <br>
+      CSS
+      </a>
+    </li>
+  </ul>
+</details>
 
-- **[Using Node Module]**
-- **[HTML Linters]**
-- **[CSS Linters]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,6 +73,8 @@ To run the project, execute the following command:
 npm install
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Nelofar Zabi**
 
@@ -114,7 +121,5 @@ I would like to thank from Microverse
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/Nelofarzabi/Hello_Microverse/blob/dev/LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
