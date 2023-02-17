@@ -120,6 +120,6 @@ I would like to thank from Microverse
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Nelofarzabi/Hello_Microverse/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/Nelofarzabi/Hello_Microverse/blob/feature_Branch/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
